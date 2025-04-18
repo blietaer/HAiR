@@ -2,5 +2,13 @@
 name = "hair"
 version = "0.1.0"
 edition = "2024"
+authors = ["Benoit LIETAER <benoit.lietaer@gmail.com>"]
+license = "BSD"
+readme = "README.md"
+repository = "https://github.com/blietaer/HAiR"
+
 
 [dependencies]
+colored = "3.0.0"
+log = "0.4.27"
+log4rs = "1.3.0"
